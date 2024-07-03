@@ -11,6 +11,14 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 3. Elemento 3
 
 
+> Contenido de blockquote. citar un texto
+> 
+> > aqui mismo
+> 
+>       by ERF
+
+
+
 Creado por **erufeil**
 
 | N°       |      Nombre   |  Saldo|
@@ -21,3 +29,6 @@ Creado por **erufeil**
 
 
 Resumen de lenguaje de marcado [Sintaxis Markdown](https://markdown.es/sintaxis-markdown/)
+o tambien este resumen [Sintaxis Markdown II](https://es.markdown.net.br "La referencia definitiva de Markdown.").
+
+para actualizar paquetes en **linux** primero hay que hacer `código sudo apt-get update código`

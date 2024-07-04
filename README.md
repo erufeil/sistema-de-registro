@@ -32,3 +32,5 @@ Resumen de lenguaje de marcado [Sintaxis Markdown](https://markdown.es/sintaxis-
 o tambien este resumen [Sintaxis Markdown II](https://es.markdown.net.br "La referencia definitiva de Markdown.").
 
 para actualizar paquetes en **linux** primero hay que hacer `código sudo apt-get update código`
+
+sistema de registro para pull
